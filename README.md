@@ -1,6 +1,6 @@
 # BattleShips-MobileApp
 
-the source code is in the branch master.
+the source code is in the branch master if it doesn't work on branch main.
 
 
 Members of the teams:
